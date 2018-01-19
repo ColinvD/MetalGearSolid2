@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 14054d17cf1ae3e44b2110bbf833bc2f
+timeCreated: 1516025381
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: East_wall3
+    100004: East_wall3_East_wall2
+    100006: Ground_floor
+    100008: North_wall
+    100010: North_wall_North_wall1
+    100012: North_wall_North_wall2
+    100014: Palen
+    100016: Palen_Paal_1
+    100018: Palen_Paal_3
+    100020: Palen_Paal_4
+    100022: Palen_Paal_5
+    100024: Platform_binnen
+    100026: Roof
+    100028: West_wall
+    100030: West_wall1
+    400000: //RootNode
+    400002: East_wall3
+    400004: East_wall3_East_wall2
+    400006: Ground_floor
+    400008: North_wall
+    400010: North_wall_North_wall1
+    400012: North_wall_North_wall2
+    400014: Palen
+    400016: Palen_Paal_1
+    400018: Palen_Paal_3
+    400020: Palen_Paal_4
+    400022: Palen_Paal_5
+    400024: Platform_binnen
+    400026: Roof
+    400028: West_wall
+    400030: West_wall1
+    2300000: East_wall3
+    2300002: East_wall3_East_wall2
+    2300004: Ground_floor
+    2300006: North_wall
+    2300008: North_wall_North_wall1
+    2300010: North_wall_North_wall2
+    2300012: Palen
+    2300014: Palen_Paal_1
+    2300016: Palen_Paal_3
+    2300018: Palen_Paal_4
+    2300020: Palen_Paal_5
+    2300022: Platform_binnen
+    2300024: Roof
+    2300026: West_wall
+    2300028: West_wall1
+    3300000: East_wall3
+    3300002: East_wall3_East_wall2
+    3300004: Ground_floor
+    3300006: North_wall
+    3300008: North_wall_North_wall1
+    3300010: North_wall_North_wall2
+    3300012: Palen
+    3300014: Palen_Paal_1
+    3300016: Palen_Paal_3
+    3300018: Palen_Paal_4
+    3300020: Palen_Paal_5
+    3300022: Platform_binnen
+    3300024: Roof
+    3300026: West_wall
+    3300028: West_wall1
+    4300000: East_wall3
+    4300002: East_wall3_East_wall2
+    4300004: Ground_floor
+    4300006: North_wall
+    4300008: North_wall_North_wall1
+    4300010: North_wall_North_wall2
+    4300012: Palen
+    4300014: Palen_Paal_1
+    4300016: Palen_Paal_3
+    4300018: Palen_Paal_4
+    4300020: Palen_Paal_5
+    4300022: Platform_binnen
+    4300024: Roof
+    4300026: West_wall
+    4300028: West_wall1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: East_wall3Mat
+    second: {fileID: 2100000, guid: 1d31b809e3a25774f9c8dcc40fa5d380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: East_wall3_East_wall2Mat
+    second: {fileID: 2100000, guid: 7efc90d0ab56b2e4d9ba9df2b09f8f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_floorMat
+    second: {fileID: 2100000, guid: 6f6663c827ffb1d4895a444a0f7e29c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: North_wallMat
+    second: {fileID: 2100000, guid: 66bcd3811e7e0564f9a45a36a531ade2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: North_wall_North_wall1Mat
+    second: {fileID: 2100000, guid: a2ed30e866b56bf43ae9475678e691b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: North_wall_North_wall2Mat
+    second: {fileID: 2100000, guid: 66198c021cfdaa14199827cbd32cdea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalenMat
+    second: {fileID: 2100000, guid: ea5a305719190d440a2ff34569dc8eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palen_Paal_1Mat
+    second: {fileID: 2100000, guid: f8db85410216c664a9548d356e8455d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palen_Paal_3Mat
+    second: {fileID: 2100000, guid: 72278e46c98d2dd4e9669d5ffdea747e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palen_Paal_4Mat
+    second: {fileID: 2100000, guid: 805389ca2f25c6f4ead9970a80f1991b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palen_Paal_5Mat
+    second: {fileID: 2100000, guid: 79b1b51a494aaff499b706d056170a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platform_binnenMat
+    second: {fileID: 2100000, guid: 27170e30f4167cd42bf653d614475b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMat
+    second: {fileID: 2100000, guid: 12b25f64985c5e349b2083409f2c3435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: West_wall1Mat
+    second: {fileID: 2100000, guid: 86f0f9fb756b6e344ab76c47dac62b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: West_wallMat
+    second: {fileID: 2100000, guid: 984bb85f3b062c843875c9a0842b28f6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
